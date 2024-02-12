@@ -1,3 +1,5 @@
+Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
+
 <div>
   <a href="https://github.com/gustavocarvalho-ra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocarvalho-ra&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
