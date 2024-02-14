@@ -31,5 +31,4 @@ Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de
 
 ![download](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/e4f4353f-fed1-43ca-ab57-9e9c25d047c8)
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
