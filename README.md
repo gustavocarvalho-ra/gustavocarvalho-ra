@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
+
 Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
 
 <div>
