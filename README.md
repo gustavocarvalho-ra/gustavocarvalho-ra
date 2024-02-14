@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Carvalho;I'm+22+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavocarvalho-ra&bg_color=000000&color=00ff33&line=093d44&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
 
 <div>
