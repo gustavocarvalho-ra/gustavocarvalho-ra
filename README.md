@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Carvalho;I'm+22+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavocarvalho-ra&bg_color=000000&color=00ff33&line=093d44&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavocarvalho-ra&bg_color=000000&color=32CD32&line=093d44&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavocarvalho-ra&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Carvalho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocarvalho-ra&layout=compact&hide_border=true&title_color=32CD32&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
 
-<div>
-  <a href="https://github.com/gustavocarvalho-ra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocarvalho-ra&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocarvalho-ra&layout=compact&langs_count=6&theme=onedark"/>
-</div>
    
 <div style="display: inline_block"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
