@@ -19,24 +19,14 @@
  </div>
 
 
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+
 
 Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
 
-   
-<div style="display: inline_block"><br>
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  
-          
-</div>
-
-<br/>
-
-<div>
- <a href="https://discord.com/channels/@20ghost01" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "gustavoc1922@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/gustavo-carvalho-7bb361205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
