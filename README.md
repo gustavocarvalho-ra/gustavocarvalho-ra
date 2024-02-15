@@ -27,7 +27,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
 
 
-Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, Tenho conhecimento em algumas linguagens e frameworks, veja deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de uma opinião, obrigado!
+Olá, meu nome é Gustavo e atualmente estou a procura de um espaço na área de desenvolvimento Front-End, deem uma olhada em meus repositórios, caso tenha algum feedback, gostaria muito de ouvi-la, obrigado!
 
 ![download](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/e4f4353f-fed1-43ca-ab57-9e9c25d047c8)
 
