@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="ReactJs" alt="ReactJs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="NextJs"  alt="NextJs" width="55" height="55"/> | ![SC (1)](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/37d85d07-d611-4cbd-8028-6baa0f435d57)
 
 
-  ### Best libraries and main frameworks:
+  ### Libraries and frameworks:
   | React.Js | Next.Js |
   |----------|----------|
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs"  alt="NextJs" width="55" height="55"/> |
