@@ -19,6 +19,12 @@
  <img src="https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green&card_width=670" alt="GitHub Streak" />
 </div>
 
+</br>
+
+<div align="center">
+  <img src= "https://komarev.com/ghpvc/?username=your-github-gustavocarvalho-ra&color=008000"
+</div>
+
 <hr/>
 
 <div>
@@ -55,3 +61,5 @@
 ![download](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/e4f4353f-fed1-43ca-ab57-9e9c25d047c8)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
+
+
