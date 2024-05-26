@@ -18,6 +18,11 @@
 <a href= "https://www.linkedin.com/in/gustavo-carvalho-7bb361205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+</br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green)](https://git.io/streak-stats)
+
+
 ### Languages:
 | JS | TS | Python |
 |----------|----------|----------|
