@@ -29,8 +29,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs"  alt="NextJs" width="55" height="55"/> |
 
 ### For styles:
-| CSS | SASS |
-|----------|----------|
+| CSS | SASS | SC |
+|----------|----------|----------|
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="ReactJs" alt="ReactJs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="NextJs"  alt="NextJs" width="55" height="55"/> | 
 
 ### About:
