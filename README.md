@@ -22,7 +22,7 @@
 </br>
 
 <div align="center">
-  <img src= "https://komarev.com/ghpvc/?username=your-github-gustavocarvalho-ra&color=008000"
+  <img src= "https://komarev.com/ghpvc/?username=your-github-gustavocarvalho-ra&style=flat-square&color=008000" width="120px" />
 </div>
 
 <hr/>
