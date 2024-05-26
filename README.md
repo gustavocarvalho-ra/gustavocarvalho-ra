@@ -28,6 +28,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
 
+### Languages:
+| JS | TS | Python |
+|----------|----------|----------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
+
+### Best libraries and main frameworks:
+| ReactJs | NextJs |
+|----------|----------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs"  alt="NextJs" width="55" height="55"/> |
+
 ### About:
 🚀 Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em Dezembro de 2025. <br>
 ⚜ Estudando qualificações em cursos como a Ûdemi para ser um desenvolvedor FrontEnd e futuramente FullStack.
