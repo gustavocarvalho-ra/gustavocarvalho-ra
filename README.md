@@ -16,7 +16,7 @@
 </br>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green&card_width=670" alt="GitHub Streak" />
 </div>
 
 <hr/>
