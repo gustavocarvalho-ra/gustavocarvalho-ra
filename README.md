@@ -20,7 +20,11 @@
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green)](https://git.io/streak-stats)
+
+<div align="center">
+ <img src="https://streak-stats.demolab.com?user=gustavocarvalho-ra&theme=shadow-green" alt="GitHub Streak" />
+</div>
+
 
 
 ### Languages:
