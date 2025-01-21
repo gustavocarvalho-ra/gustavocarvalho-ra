@@ -59,7 +59,6 @@
 🚀 Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em Dezembro de 2025. <br>
 ⚜ Estudando qualificações em cursos como a Ûdemi e Alura para ser um desenvolvedor FrontEnd e futuramente FullStack. <br>
 🔆 Atualmente realizando estudos sobre Next.js. <br>
-💥 Entusiasta do talvez futuro cyberpunk.
 
 ![download](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/e4f4353f-fed1-43ca-ab57-9e9c25d047c8)
 
