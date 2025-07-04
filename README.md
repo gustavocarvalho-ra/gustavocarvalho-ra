@@ -37,7 +37,6 @@
   ### For styles:
   TW | CSS | SASS | SC |
   |----------|----------|----------|----------|
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS"  alt="SASS" width="55" height="55"/> | ![SC (1)](https://github.com/gustavocarvalho-ra/gustavocarvalho-ra/assets/137126878/37d85d07-d611-4cbd-8028-6baa0f435d57)
 
 
