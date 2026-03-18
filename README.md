@@ -56,7 +56,7 @@
 </div>
 
 ### About:
-🚀 Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em Dezembro de 2025. <br>
+🚀 Tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em Dezembro de 2025. <br>
 ⚜ Estudando qualificações em cursos como a Ûdemi e Alura para ser um desenvolvedor FrontEnd e futuramente FullStack. <br>
 🔆 Atualmente realizando estudos sobre Next.js. <br>
 🕳 Tentando entrar na área dev...
